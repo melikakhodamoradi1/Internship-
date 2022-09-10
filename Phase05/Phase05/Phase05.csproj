@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <PackageId>StarAcademy.MohammadRezaSadeghi.Phase05</PackageId>
+    <Authors>MohammadReza Sadeghi</Authors>
+    <Company>Star Academy</Company>
+  </PropertyGroup>
+
+</Project>
